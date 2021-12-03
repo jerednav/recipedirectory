@@ -36,6 +36,18 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Vegi",
+      "ingredients": [
+        "mushrooms",
+        "leaks",
+        "tofu",
+        "carrots"
+      ],
+      "method": "salad",
+      "cookingTime": "45 minutes",
+      "id": "rI1a8td"
     }
   ]
 }
